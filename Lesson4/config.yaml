@@ -1,0 +1,27 @@
+folder_tst: /home/kirill/tst
+folder_in: /home/kirill/tst/file
+folder_out: /home/kirill/tst/out
+folder_ext: /home/kirill/tst/ext
+folder_ext2: /home/kirill/tst/ext2
+folder_badarx: /home/kirill/tst/badarx
+
+folder_tst_u2: /home/user2/tst
+folder_in_u2: /home/user2/tst/file
+folder_out_u2: /home/user2/tst/out
+folder_ext_u2: /home/user2/tst/ext
+folder_ext2_u2: /home/user2/tst/ext2
+folder_badarx_u2: /home/user2/tst/badarx
+folder_out_negative_u2: /home/user2/tst/badarx
+
+filename: res.txt
+folder_out_negative: /home/kirill/tst/badarx
+count: 5
+bs: 1M
+host: 0.0.0.0
+user: user2
+password: "111"
+local_path: /home/kirill/p7zip-full.deb
+remote_path: /home/user2/p7zip-full.deb
+pkgname: p7zip-full
+stat_loadavg: /proc/loadavg
+type_7z: "-tzip"
